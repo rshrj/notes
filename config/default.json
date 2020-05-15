@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/notes",
+  "jwtSecret": "rock+roll"
+}
