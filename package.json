@@ -35,7 +35,7 @@
     "graphql-compose": "^7.15.0",
     "graphql-compose-mongoose": "^7.3.6",
     "gravatar": "^1.8.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.13",
     "normalize-url": "^5.0.0"
   },
